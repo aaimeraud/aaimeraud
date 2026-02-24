@@ -10,11 +10,10 @@ I'm currently studying at [.decode](https://www.ecole-decode.fr) and i'm looking
 - By [Mail](mailto:danielfortune.pro@gmail.com)
 
 # 🌱 I’m currently learning
-- C++
-- SQL
 - Javascript
 - Next.js
 - Shell
+- SQL
 
   
 <!--
