@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hey, i'm Daniel ! 👋 </h1>
-<p><em>A freelance front-end developer, working towards a full-stack career.</em></p>
+<p><em>A student working towards a full-stack career.</em></p>
 
 I'm currently studying at [.decode](https://www.ecole-decode.fr) and i'm looking for an internship for April 2026 and a work-study contract for September 2026 in Paris or nearby.
 </div>
