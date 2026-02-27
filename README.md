@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hey, i'm Daniel ! 👋 </h1>
+<h1>Hey, i'm <a href="https://www.fortunedaniel.com">Daniel</a> ! 👋 </h1>
 <p><em>A student working towards a full-stack career.</em></p>
 
 I'm currently studying at [.decode](https://www.ecole-decode.fr) and i'm looking for an internship for April 2026 and a work-study contract for September 2026 in Paris or nearby.
@@ -9,7 +9,7 @@ I'm currently studying at [.decode](https://www.ecole-decode.fr) and i'm looking
 - On [Linkedin](https://www.linkedin.com/in/danielfortun%C3%A9/)
 - By [Mail](mailto:danielfortune.pro@gmail.com)
 
-# 🌱 I’m currently learning
+## 🌱 I’m currently learning
 - Javascript
 - Next.js
 - Shell
