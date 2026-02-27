@@ -8,6 +8,8 @@ I'm currently studying at [.decode](https://www.ecole-decode.fr) and i'm looking
 ## 📫 How to reach me
 - On [Linkedin](https://www.linkedin.com/in/danielfortun%C3%A9/)
 - By [Mail](mailto:danielfortune.pro@gmail.com)
+  
+Or [Book a Call](https://www.cal.eu/danielfortune)
 
 ## 🌱 I’m currently learning
 - Javascript
