@@ -2,7 +2,7 @@
 <h1>Hey, i'm <a href="https://www.fortunedaniel.com">Daniel</a> ! 👋 </h1>
 <!-- <p><em>A student working towards a full-stack career.</em></p> --!>
 
-I'm currently a front-end developper at [ComKani](https://www.comkani.fr) and i'm looking for an internship for a work-study contract for september 2026 in Paris or nearby.
+I'm currently a front-end developper at [ComKani](https://www.comkani.fr) and i'm looking for a work-study contract for september 2026 in Paris or nearby.
 </div>
 
 ## 📫 How to reach me
