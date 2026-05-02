@@ -8,12 +8,14 @@ I'm currently a front-end developper at [ComKani](https://www.comkani.fr) and i'
 ## 📫 How to reach me
 - On [Linkedin](https://www.linkedin.com/in/danielfortun%C3%A9/)
 - By [Mail](mailto:danielfortune.pro@gmail.com)
+<!-- 
 - [Book a Call](https://www.cal.eu/danielfortune)
+-->
 
 ## 🌱 I’m currently learning
 - Javascript
 - Next.js
-- Shell
+- Wordpress
 - SQL
 
   
