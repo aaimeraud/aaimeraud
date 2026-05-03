@@ -13,7 +13,7 @@ I'm a front-end developper at [ComKani](https://www.comkani.fr). i'm looking for
 -->
 
 ## 🌱 I’m currently learning
-- Javascript
+- Typescript
 - Next.js
 - Wordpress
 - SQL
