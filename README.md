@@ -1,35 +1,13 @@
-<div align="center">
-<h1>Hey, i'm <a href="https://www.fortunedaniel.com">Daniel</a> ! 👋 </h1>
-<!-- <p><em>A student working towards a full-stack career.</em></p> --!>
+```diff
++ Internship at ComKani ₁
++ Working primarily with WordPress, React & Typescript
+! Looking for a work-study for September 2026
+! Student at .decode ₂
+  Daniel Fortuné // @aaimeraud // FR
+  fortunedaniel.com ₃
+  contact@fortunedaniel.com ₄
+- Looking for an internship in Paris
+```
+[1](comkani.fr) [2](ecole-decode.fr) [3](fortunedaniel.com) [4](mailto:contact@fortunedaniel.com)
 
-I'm a front-end developper at [ComKani](https://www.comkani.fr). i'm looking for a work-study contract for september 2026 in Paris or nearby.
-</div>
-
-## 📫 How to reach me
-- On [Linkedin](https://www.linkedin.com/in/danielfortun%C3%A9/)
-- By [Mail](mailto:danielfortune.pro@gmail.com)
-<!-- 
-- [Book a Call](https://www.cal.eu/danielfortune)
--->
-
-## 🌱 I’m currently learning
-- Typescript
-- Next.js
-- Wordpress
-- SQL
-
-  
-<!--
-**aaimeraud/aaimeraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--this readme was inspired by https://github.com/coignard/coignard--!>
