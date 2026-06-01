@@ -8,6 +8,6 @@
   contact@fortunedaniel.com ₄
 - Looking for an internship in Paris
 ```
-[1](comkani.fr) [2](ecole-decode.fr) [3](fortunedaniel.com) [4](mailto:contact@fortunedaniel.com)
+[1](https://www.comkani.fr) [2](https://www.ecole-decode.fr) [3](https://www.fortunedaniel.com) [4](mailto:contact@fortunedaniel.com)
 
 <!--this readme was inspired by https://github.com/coignard/coignard--!>
