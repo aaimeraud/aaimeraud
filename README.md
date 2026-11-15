@@ -23,6 +23,6 @@ $ whoami
   goal:   become a systems programming beast
 </pre>
 
-<sub>Some commits are signed by <a href="https://github.com/aaimebot">@aaimebot</a>, my coding agent. I review (almost) everything it writes.</sub>
+<sub>Some commits are signed by <a href="https://github.com/aaimebot">@aaimebot</a>, my coding agent. I review everything it writes.</sub>
 
 </div>
