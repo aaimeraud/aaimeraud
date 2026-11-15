@@ -19,7 +19,7 @@ Currently working primarily in React, aspiring to be a software engineer.
 
 <pre>
 $ whoami                                    
-> status: junior dev                        
+> status: student, junior dev                        
   goal:   become a systems programming beast
 </pre>
 
